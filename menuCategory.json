@@ -1,0 +1,30 @@
+{
+    "food": [
+        {"nama": "Nasi Goreng Kampung", "harga": 15000},
+        {"nama": "Mie Ayam Wonogiri", "harga": 14000},
+        {"nama": "Soto Betawi", "harga": 20000},
+        {"nama": "Ketoprak Cirebon", "harga": 12000},
+        {"nama": "Bakso Malang", "harga": 17000}
+    ],
+    "drink": [
+        {"nama": "Es Teh Kampul", "harga": 4000},
+        {"nama": "Es Jeruk Liar", "harga": 5000},
+        {"nama": "Jus Terong Belanda", "harga": 8000},
+        {"nama": "Air Kelapa", "harga": 6000},
+        {"nama": "Air Putih Anget", "harga": 1000}
+    ],
+    "snack": [
+        {"nama": "Kacang Atom", "harga": 3000},
+        {"nama": "Kerupuk Jangek", "harga": 5000},
+        {"nama": "Otak-otak", "harga": 2000},
+        {"nama": "Peyek", "harga": 4000},
+        {"nama": "Gorengan", "harga": 1500}
+    ],
+    "dessert": [
+        {"nama": "Es Krim Xue", "harga": 19000},
+        {"nama": "Cendol Dawet", "harga": 15000},
+        {"nama": "Martabak Mesir", "harga": 20000},
+        {"nama": "Coklat Dubai", "harga": 60000},
+        {"nama": "Mango Sago", "harga": 30000}
+    ]
+}

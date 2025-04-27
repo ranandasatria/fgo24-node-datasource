@@ -1,12 +1,12 @@
 {
-    "food": [
+    "makanan": [
         {"nama": "Nasi Goreng Kampung", "harga": 15000},
         {"nama": "Mie Ayam Wonogiri", "harga": 14000},
         {"nama": "Soto Betawi", "harga": 20000},
         {"nama": "Ketoprak Cirebon", "harga": 12000},
         {"nama": "Bakso Malang", "harga": 17000}
     ],
-    "drink": [
+    "minuman": [
         {"nama": "Es Teh Kampul", "harga": 4000},
         {"nama": "Es Jeruk Liar", "harga": 5000},
         {"nama": "Jus Terong Belanda", "harga": 8000},
